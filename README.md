@@ -30,7 +30,7 @@ The page does not have to be pixel perfect.
 ##ScreenShots
 
 ![screenshot1](https://github.com/PeaceUCR/AngularStore/blob/master/screenshot1.png)
-![screenshot2](https://github.com/PeaceUCR/AngularStore/blob/master/screenshot2.png)
+![screenshot2](https://github.com/PeaceUCR/AngularStore/blob/master/screenshot2.PNG)
 
 ##How to use
 
