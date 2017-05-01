@@ -1,0 +1,11 @@
+body {
+    padding-top: 50px;
+}
+
+
+.list-item{
+    margin-top:15px;
+    margin-bottom: 15px;
+    background: #dddddd;
+    background: linear-gradient(to right, #dddddd , #ffffff);
+}
