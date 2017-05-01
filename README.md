@@ -1,7 +1,7 @@
 # AngularStore
-##AngularJS Project
+## AngularJS Project
 
-##Requirement:
+## Requirement:
 
 Use the provided images to create a responsive / angular driven page. Angular / Bootstrap / JSON are included. 
 
@@ -19,7 +19,7 @@ The page should be semanitcally correct and follow as many SEO best practices as
 The page should follow as many optimization best practices as possible ( to reduce load times )
 
 
-##Features:
+## Features:
 1. Search - Search by product name, When user types a product name into the search box, all products that match the search term display. ( angularjs-store-search-for-stadium-view.png )
 2. Add items - Once product name, description and price are populated, and add button has been clicked the new product should add and display in the current list. ( angularjs-store-add-item-view.png )
 3. Remove items - when user click on remove "X" icon, the corresponding product should remove from the list.
@@ -32,6 +32,6 @@ The page does not have to be pixel perfect.
 ![screenshot1](https://github.com/PeaceUCR/AngularStore/blob/master/screenshot1.png)
 ![screenshot2](https://github.com/PeaceUCR/AngularStore/blob/master/screenshot2.PNG)
 
-##How to use
+## How to use
 
 Open this project by WebStorm and then run the main.html
