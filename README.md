@@ -27,7 +27,7 @@ The page should follow as many optimization best practices as possible ( to redu
 
 The page does not have to be pixel perfect. 
 
-##ScreenShots
+## ScreenShots
 
 ![screenshot1](https://github.com/PeaceUCR/AngularStore/blob/master/screenshot1.png)
 ![screenshot2](https://github.com/PeaceUCR/AngularStore/blob/master/screenshot2.PNG)
